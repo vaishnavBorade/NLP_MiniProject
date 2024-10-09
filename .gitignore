@@ -1,0 +1,23 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+env/
+.SentimentEnv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Output directories
+results/
+sentiment_model/
+SentimentEnv/
+
+
+# IDE or editor-specific files
+.vscode/
+.idea/
+*.swp

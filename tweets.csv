@@ -1,0 +1,7 @@
+tweet,label
+"I love this product!",Positive
+"This is the worst experience I've ever had.",Negative
+"It's okay, not great but not bad either.",Neutral
+"I'm not sure how I feel about this product.",Neutral
+"Just another day in the office.",Neutral
+"Can't complain, but not thrilled either.",Neutral

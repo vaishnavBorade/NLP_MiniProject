@@ -1,0 +1,112 @@
+tweet,label
+"I absolutely love this!",Positive
+"This is the best day ever!",Positive
+"Fantastic product! Highly recommend it.",Positive
+"I'm so happy with my purchase.",Positive
+"Best experience I've ever had.",Positive
+"This is just okay.",Neutral
+"It's neither good nor bad.",Neutral
+"I don't have strong feelings about this.",Neutral
+"Just a regular day, nothing special.",Neutral
+"Not impressed, but not disappointed either.",Neutral
+"I really hate this.",Negative
+"This is the worst product I've ever used.",Negative
+"I'm very disappointed with the quality.",Negative
+"Terrible service, will not return.",Negative
+"This is a scam!",Negative
+"Not great, not terrible.",Neutral
+"Could be better, but not awful.",Neutral
+"I'm indifferent about this.",Neutral
+"Honestly, I have no opinion on this.",Neutral
+"This product is a total waste of money.",Negative
+"Absolutely not what I expected.",Negative
+"Could've been much better.",Negative
+"I'm happy with it, but there are some flaws.",Neutral
+"Overhyped and underwhelming.",Negative
+"Meh, just okay.",Neutral
+"Very satisfied with the service provided.",Positive
+"Decent, but nothing to write home about.",Neutral
+"Completely worth the money!",Positive
+"Disappointing, it didn't meet my expectations.",Negative
+"Okay, I guess.",Neutral
+"This is a must-have for everyone!",Positive
+"Not bad, but not great either.",Neutral
+"Terrible experience overall.",Negative
+"Simply amazing, would buy again!",Positive
+"Just fine, nothing remarkable.",Neutral
+"Such a letdown.",Negative
+"I expected better quality.",Negative
+"I could take it or leave it.",Neutral
+"This product has changed my life!",Positive
+"I am so excited about this!",Positive
+"I wish I had known earlier about this.",Neutral
+"Very poor customer service.",Negative
+"I don't really care about this product.",Neutral
+"This exceeded all my expectations!",Positive
+"I don't hate it, but I don't love it either.",Neutral
+"Awful product!",Negative
+"Nothing special, but it works.",Neutral
+"I'm thrilled with how this turned out!",Positive
+"Absolutely fantastic service!",Positive
+"Meh, not my favorite.",Neutral
+"This was a huge disappointment.",Negative
+"Okay for the price, but nothing special.",Neutral
+"Totally worth the hype!",Positive
+"Too much fuss about nothing.",Neutral
+"Really fantastic, highly recommend!",Positive
+"I regret buying this.",Negative
+"Neutral feelings about this product.",Neutral
+"This is not what I expected at all.",Negative
+"I think it's fine, but nothing amazing.",Neutral
+"Absolutely fantastic experience!",Positive
+"Very underwhelming.",Negative
+"This product is simply the best!",Positive
+"Just alright.",Neutral
+"I'm happy, but there are some flaws.",Neutral
+"Wouldn't recommend it to anyone.",Negative
+"This is a great product for its price!",Positive
+"Not impressed at all.",Negative
+"Totally okay, nothing remarkable.",Neutral
+"Love it!",Positive
+"Disappointing, I expected more.",Negative
+"I'm happy with my choice.",Positive
+"I don't feel strongly one way or the other.",Neutral
+"Very good experience!",Positive
+"Average, nothing more.",Neutral
+"Would not buy again.",Negative
+"Very good value for the price!",Positive
+"This was just not for me.",Negative
+"Somewhat satisfied.",Neutral
+"Highly satisfied!",Positive
+"Meh, just okay.",Neutral
+"Not worth the money.",Negative
+"I would recommend it to my friends.",Positive
+"Nothing to get excited about.",Neutral
+"I absolutely hate this.",Negative
+"Very positive experience!",Positive
+"Okay, not great.",Neutral
+"Poor quality.",Negative
+"This has been life-changing!",Positive
+"I'm indifferent towards this product.",Neutral
+"This product is simply amazing.",Positive
+"Not a fan.",Negative
+"Good enough.",Neutral
+"Absolutely loved it!",Positive
+"I will not buy this again.",Negative
+"Just fine.",Neutral
+"Thrilled with my purchase!",Positive
+"This is a waste of time and money.",Negative
+"Could be better, but still okay.",Neutral
+"Fantastic value!",Positive
+"I feel neutral about this product.",Neutral
+"I'm really pleased!",Positive
+"This is a mistake I won't make again.",Negative
+"Perfectly fine.",Neutral
+"This is a total game changer!",Positive
+"Very mediocre experience.",Neutral
+"This product is simply the best!",Positive
+"Very unsatisfactory.",Negative
+"Just average, nothing special.",Neutral
+"Really impressive!",Positive
+"I regret buying this.",Negative
+"Fine, but not great.",Neutral
