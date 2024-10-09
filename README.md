@@ -25,14 +25,6 @@ Make sure you have Python 3.6 or higher installed. You can use the following com
 pip install -r requirements.txt
 ```
 
-If you don't have a `requirements.txt` file, you can create one with the following content:
-
-```
-transformers
-torch
-pandas
-```
-
 ## Setting Up the Environment
 
 1. **Clone the Repository**:
