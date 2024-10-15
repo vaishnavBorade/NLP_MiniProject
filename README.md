@@ -19,11 +19,8 @@ NLP_MINIPROJECT/
 
 ## Requirements
 
-Make sure you have Python 3.6 or higher installed. You can use the following command to install the required libraries:
+Make sure you have Python 3.6 or higher installed.
 
-```bash
-pip install -r requirements.txt
-```
 
 ## Setting Up the Environment
 
