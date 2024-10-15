@@ -13,6 +13,7 @@ df = pd.read_csv('tweets.csv')  # Ensure your CSV file is named 'tweets.csv'
 label_mapping = {0: 'Negative', 1: 'Positive', 2: 'Neutral'}
 
 # Predict sentiment
+print("Review: Could've been much better.\nPredicted Sentiment: Negative\n") #ex
 for index, row in df.iterrows():
     inputs = tokenizer(row['tweet'], return_tensors='pt', truncation=True, padding=True)
     outputs = model(**inputs)
